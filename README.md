@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm JJ1NTPROY who are in Gachon University.
 <!--
 **JJ1NTPROY/JJ1NTPROY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
