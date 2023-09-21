@@ -10,9 +10,13 @@ For example, the objects in the following images were detected using [mmdetectio
 ---
 ###Dependencies
 /* python
+
 /* opence-python
+
 /* tensorflow
+
 /* openmmlab
+
 /* package manager
 
 ###Installation
@@ -20,8 +24,12 @@ In a bash terminal, run the following commands (Do NOT actually run these comman
 
 '''sh
 $ sudo apt update
+
 $ conda create -n cv_detection
+
 $ conda activate cv_detection
+
 $ python --version
+
 $ python example.py
 '''
